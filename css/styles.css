@@ -1,0 +1,15 @@
+#edu{
+    font-weight:bolder;
+    font-style:initial;
+}
+.read{
+    font-style: italic;
+
+}
+.brief{
+    text-align:center;
+}
+.about{
+    font-style: italic;
+    background-color: blueviolet;
+}

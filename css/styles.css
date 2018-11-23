@@ -4,6 +4,8 @@
 }
 .read{
     font-style: italic;
+    font-size: 15Px;
+    background-color: green;
 
 }
 .brief{
@@ -11,5 +13,12 @@
 }
 .about{
     font-style: italic;
-    background-color: blueviolet;
+    background-color: burlywood;
+
+.important{
+    float: right;
+}
+
+.school{
+        font-style: normal;
 }
